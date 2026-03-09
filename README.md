@@ -64,7 +64,6 @@ Test your webpage in a browser.
 ```
 style.html
 
-<!DOCTYPE html>
 <html>
 <head>
     <meta charset="UTF-8">
